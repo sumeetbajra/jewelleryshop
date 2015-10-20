@@ -12,9 +12,17 @@
  Text Domain:  wastra
 */
 
+body{
+  font-family: 'Raleway',sans-serif,Tahoma
+}
+
 #primary-navigation{
       position: relative;
       top: 16px;
+}
+
+#primary-navigation .nav-menu{
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 #featured-content{
@@ -52,7 +60,7 @@ li.product{
 }
 
 .site-title a img{
-      height: 63px !important;
+      height: 117px !important;
       width: auto !important;
 }
 
